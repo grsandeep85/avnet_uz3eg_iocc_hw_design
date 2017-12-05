@@ -23,4 +23,5 @@ Steps to Build Vivado Design Project
    source ./<git_repo_avnet_uz3eg_iocc_hw_design>/avnet_uz3eg_iocc_dp.tcl
 
 5. Once the bitstream generation is complete you can export the hdf
+
    File ---> Export ---> Export Hardware ---> [*] Include bitstream
